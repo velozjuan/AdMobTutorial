@@ -15,10 +15,10 @@ public class AdManager : MonoBehaviour
     private string intAdID = "ca-app-pub-3940256099942544/4411468910";
     private InterstitialAd interstitialAd;
 
-    private string bannerAdID = "ca-app-pub-3940256099942544/4411468910";
+    private string bannerAdID = "ca-app-pub-3940256099942544/2934735716";
     private BannerView bannerView;
 
-    private string rewardedAdID = "ca-app-pub-3940256099942544/4411468910";
+    private string rewardedAdID = "ca-app-pub-3940256099942544/1712485313";
     private RewardedAd rewardedAd;
     
     void Awake()
